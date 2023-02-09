@@ -1,0 +1,10 @@
+/* Author:Tessy */
+.main {
+    height: 165vh;
+    background-image: url("../images/bgimg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainpage {
+    height: 150vh;
+}
